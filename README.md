@@ -1,6 +1,6 @@
-[![Build Status](https://travis-ci.org/reinfi/zf-dependency-injection.svg?branch=master)](https://travis-ci.org/reinfi/zf-dependency-injection)
-[![Code Climate](https://codeclimate.com/github/reinfi/zf-dependency-injection/badges/gpa.svg)](https://codeclimate.com/github/reinfi/zf-dependency-injection)
-[![Coverage Status](https://coveralls.io/repos/github/reinfi/zf-dependency-injection/badge.svg?branch=master)](https://coveralls.io/github/reinfi/zf-dependency-injection?branch=master)
+[![Build Status](https://travis-ci.org/reinfi/zf-guzzle-emitter.svg?branch=master)](https://travis-ci.org/reinfi/zf-guzzle-emitter)
+[![Code Climate](https://codeclimate.com/github/reinfi/zf-guzzle-emitter/badges/gpa.svg)](https://codeclimate.com/github/reinfi/zf-guzzle-emitter)
+[![Coverage Status](https://coveralls.io/repos/github/reinfi/zf-guzzle-emitter/badge.svg?branch=master)](https://coveralls.io/github/reinfi/zf-guzzle-emitter?branch=master)
 
 Configure guzzle emitter subscriber via configuration.
 
