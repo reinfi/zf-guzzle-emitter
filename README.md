@@ -42,5 +42,7 @@ $options = [
 $client = new Client($options);
 ```
 
+For information how to write subscriber see http://docs.guzzlephp.org/en/5.3/events.html#event-subscribers
+
 ### FAQ
 Feel free to ask any questions or open own pull requests.
